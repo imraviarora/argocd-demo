@@ -15,5 +15,5 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: nginx
+      - image: 619108111967.dkr.ecr.us-east-1.amazonaws.com/nodejssamplewebapp:latest
         name: nginx
